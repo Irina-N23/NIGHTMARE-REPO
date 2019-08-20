@@ -52,3 +52,5 @@ Is it so hard to smile and lend a helping hand
 Open your hearts it can be simple
 If you just know what you feel
 Go look for something real
+
+some content for the first commit in my feature branch
